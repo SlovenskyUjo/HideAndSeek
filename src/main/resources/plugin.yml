@@ -1,0 +1,3 @@
+name: HideAndSeek
+version: '${project.version}'
+main: sk.matiuss.hideandseek.HideAndSeek
